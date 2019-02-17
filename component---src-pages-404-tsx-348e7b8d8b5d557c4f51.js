@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{139:function(e,t,n){"use strict";n.r(t),n.d(t,"query",function(){return r});var a=n(7),c=(n(0),n(188)),r="1785338726";t.default=function(e){var t=e.data;return Object(a.c)(c.a,null,Object(a.c)("h1",null,"NOT FOUND"),Object(a.c)("p",null,"This page doesn't exist. However, if you really need it, you can submit a PR ",Object(a.c)("a",{href:t.site.siteMetadata.repository},"here"),"!"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-348e7b8d8b5d557c4f51.js.map
