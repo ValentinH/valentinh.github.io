@@ -26,20 +26,48 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-e3f2a68d57efc2e52681.js"
+    "url": "webpack-runtime-3bbcc70a1d6471da5b03.js"
   },
   {
-    "url": "app-e517d6f899cc5fb5a178.js"
+    "url": "app-518af346f312722916f6.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-f8ab64c9b6f81a7f54aa.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "89e6a1113af4045a81419f81485d9999"
+    "revision": "0291ea7195ca56f58b404623408f55e1"
   },
   {
-    "url": "component---src-pages-404-tsx.1ecf0c521744ca854b49.css"
+    "url": "2.7b98952a16ff75987c9b.css"
+  },
+  {
+    "url": "google-fonts/s/alegreyasanssc/v8/mtGh4-RGJqfMvt7P8FUr0Q1j-Hf1Bkll9w.woff2",
+    "revision": "9a160148ba25017b0d73e697d8e9a925"
+  },
+  {
+    "url": "google-fonts/s/alegreyasanssc/v8/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DuJH4iNhMA.woff2",
+    "revision": "1be43794a3aaa896d87e7a5ba20b9cf9"
+  },
+  {
+    "url": "google-fonts/s/alegreyasanssc/v8/mtGn4-RGJqfMvt7P8FUr0Q1j-Hf1DipV9QRE.woff2",
+    "revision": "100f0e9728df8828c05e4fe5f80605b5"
+  },
+  {
+    "url": "google-fonts/s/cabin/v12/u-480qWljRw-PdeL2uhluyk.woff2",
+    "revision": "476ff5f8d157e219fabeba3f03df794c"
+  },
+  {
+    "url": "google-fonts/s/cabin/v12/u-4x0qWljRw-Pd8w__0.woff2",
+    "revision": "862242471e8a1ea2652c2b0e0b475553"
+  },
+  {
+    "url": "google-fonts/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
+    "revision": "7fbbfd1610770d594aef639cfefdd0b0"
+  },
+  {
+    "url": "google-fonts/s/lato/v14/S6uyw4BMUTPHjx4wXg.woff2",
+    "revision": "f1a4a058fbba1e35a406188ae7eddaf8"
   },
   {
     "url": "google-fonts/s/lobstertwo/v11/BngRUXZGTXPUvIoyV6yN5-92w7CGwR0.woff2",
@@ -54,10 +82,25 @@ self.__precacheManifest = [
     "revision": "cffb686d7d2f4682df8342bd4d276e09"
   },
   {
-    "url": "component---src-pages-404-tsx-c0c7388db35242fdd1df.js"
+    "url": "google-fonts/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+    "revision": "037d830416495def72b7881024c14b7b"
   },
   {
-    "url": "0-fcc668b188125ab8c230.js"
+    "url": "google-fonts/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+    "revision": "5d4aeb4e5f5ef754e307d7ffaef688bd"
+  },
+  {
+    "url": "google-fonts/s/rubik/v7/iJWKBXyIfDnIV7nBrXw.woff2",
+    "revision": "cebc4ea456a88943fb6b6cb56a648071"
+  },
+  {
+    "url": "2-5e5b9e172f47b0bd400d.js"
+  },
+  {
+    "url": "component---src-pages-404-tsx-ce847fe36f21fca890d8.js"
+  },
+  {
+    "url": "0-12da35dcc7b9798d7b0b.js"
   },
   {
     "url": "static/d/569/path---404-html-516-62a-E2Mbe6EuzYilB7R3anFgccqr5Qg.json"
